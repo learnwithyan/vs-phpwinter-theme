@@ -2,7 +2,7 @@
   "name": "phpwinter-theme",
   "displayName": "PHP winter Theme",
   "description": "A VSCode implementation of the PHP developer winter theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.1.0"
