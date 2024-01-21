@@ -4,7 +4,7 @@ Its a php winter theme. You can install it from vscode marketplace
 
 ##
 
-[![Vscode extension](/images/main.png 'Vscode extension demo')](https://learnwithyan.com)
+[![Vscode extension](./images/screen1.png 'Vscode extension demo')](https://learnwithyan.com)
 
 ## How to use?
 
