@@ -2,7 +2,7 @@
   "name": "phpwinter-theme",
   "displayName": "PHP winter Theme",
   "description": "A VSCode implementation of the PHP developer winter theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "engines": {
     "vscode": "^1.1.0"
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/benjaminbenais/vs-phpwinter-theme"
+    "url": "https://github.com/learnwithyan/vs-phpwinter-theme"
   },
   "icon": "theme-icon.png",
   "contributes": {
@@ -27,7 +27,22 @@
       {
         "label": "PHP winter Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/vs-dark.json"
+        "path": "./themes/vs-dark-winter.json"
+      },
+      {
+        "label": "PHP spring Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vs-dark-spring.json"
+      },
+      {
+        "label": "PHP summer Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vs-dark-spring.json"
+      },
+      {
+        "label": "PHP autumn Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vs-dark-spring.json"
       }
     ]
   }
